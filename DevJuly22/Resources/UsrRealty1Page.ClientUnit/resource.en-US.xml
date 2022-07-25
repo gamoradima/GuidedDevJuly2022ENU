@@ -3,7 +3,11 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Edit page: &quot;Realty&quot;" />
+			<Item Name="LocalizableStrings.CommissionCaption.Value" Value="Commission, USD" />
 			<Item Name="LocalizableStrings.MyButtonCaption.Value" Value="My button!" />
+			<Item Name="LocalizableStrings.TabVisitsTabCaption.Value" Value="Visits" />
+			<Item Name="LocalizableStrings.UsrSchema9f828d7aDetailfc2268d6DetailCaptionOnPage.Value" Value="Realty visits" />
+			<Item Name="LocalizableStrings.ValueMustBeGreaterThanZero.Value" Value="Value must be greater than zero" />
 		</Items>
 	</Group>
 </Resources>

@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty offer type" />
+			<Item Name="Columns.UsrCommissionMultiplier.Caption" Value="Commission Multiplier" />
 		</Items>
 	</Group>
 </Resources>
