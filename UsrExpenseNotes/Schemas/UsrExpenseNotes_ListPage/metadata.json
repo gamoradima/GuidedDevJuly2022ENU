@@ -1,0 +1,15 @@
+= MetaData.Schema.UId "670c40f7-aa54-48c2-823e-963491cae43f"
+= MetaData.Schema.A2 "UsrExpenseNotes_ListPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
++ MetaData.Schema.B2 {
+  "UId": "9b477847-6327-3cd8-1638-324f62e3d420",
+  "A2": "RefreshButtonCaption",
+  "A3": "670c40f7-aa54-48c2-823e-963491cae43f",
+  "A4": "670c40f7-aa54-48c2-823e-963491cae43f",
+  "A5": "1a2d0ecf-6ed9-462c-b8cf-7297687fb7dc"
+}
+~ MetaData.Schema.B2 ["9b477847-6327-3cd8-1638-324f62e3d420"]
+= MetaData.Schema.B6 "5530927f-22ea-e7c9-4ccf-506d3a6c2ed2"
+= MetaData.Schema.HD1 "a5678241-e5e0-f691-b825-84b6039d5fa2"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

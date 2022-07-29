@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ExpenseNotes form page" />
+			<Item Name="LocalizableStrings.addRecord_hxy4co8_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ne8q289_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_7xc9o2i_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.NumberInput_87y93nj_placeholder.Value" Value="add some value here" />
+		</Items>
+	</Group>
+</Resources>

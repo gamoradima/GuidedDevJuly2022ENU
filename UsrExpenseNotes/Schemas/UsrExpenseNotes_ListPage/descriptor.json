@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "670c40f7-aa54-48c2-823e-963491cae43f",
+    "Name": "UsrExpenseNotes_ListPage",
+    "ModifiedOnUtc": "\/Date(1659107237000)\/",
+    "Parent": {
+      "UId": "a5678241-e5e0-f691-b825-84b6039d5fa2",
+      "Name": "BaseGridSectionTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ExpenseNotes list page",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="ExpenseNotes" />
+			<Item Name="Columns.UsrAmountUSD.Caption" Value="Amount, USD" />
+			<Item Name="Columns.UsrAmountUSD.Description" Value="Where we can see this description?..." />
+			<Item Name="Columns.UsrName.Caption" Value="Subject" />
+			<Item Name="Columns.UsrOwner.Caption" Value="Owner" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

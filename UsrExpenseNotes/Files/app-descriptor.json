@@ -1,0 +1,19 @@
+{
+  "Name": "ExpenseNotes",
+  "Code": "UsrExpenseNotes",
+  "Description": "Cool example!",
+  "Maintainer": "Customer",
+  "Icon": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzOCIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDM4IDE2Ij4KICA8ZyBpZD0ic3R1ZGlvLWxvZ28tcGFnZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTUyLjg1MykiPgogICAgPHBhdGggaWQ9IlBhdGhfMTE2MjkiIGRhdGEtbmFtZT0iUGF0aCAxMTYyOSIgZD0iTTE1NS44MywxMS40MTksMTM2LjA2NSwxNmw1Ljg4Mi00LjU4MUwxMTcuODMsMFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02NC45NzcpIiBmaWxsPSIjZmZmIi8+CiAgICA8cGF0aCBpZD0iUGF0aF8xMTYzMCIgZGF0YS1uYW1lPSJQYXRoIDExNjMwIiBkPSJNMTU1LjgzLDExLjMzSDE0MS45NDdMMTE3LjgzLDBaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNjQuOTc3KSIgZmlsbD0iI2ZmZiIvPgogIDwvZz4KPC9zdmc+Cg==",
+  "IconName": "icon_151.svg",
+  "Color": "#FF4013",
+  "MarketplaceLink": "",
+  "HelpLink": "",
+  "OrderLink": "",
+  "SupportEmail": "",
+  "Packages": [
+    {
+      "UId": "ce81e2b7-b6df-46fd-9907-67ec6cc714dd",
+      "Name": "UsrExpenseNotes"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "82a675a5-1976-4715-b091-5a6774ef4de5",
+    "Name": "UsrExpenseNotes",
+    "ModifiedOnUtc": "\/Date(1659108654000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "ExpenseNotes",
+    "DependsOn": []
+  }
+}

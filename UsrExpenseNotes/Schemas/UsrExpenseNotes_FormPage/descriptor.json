@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "bbddfbb2-0bca-4faa-ba37-891dd8bf70bd",
+    "Name": "UsrExpenseNotes_FormPage",
+    "ModifiedOnUtc": "\/Date(1659108661000)\/",
+    "Parent": {
+      "UId": "0f8eb896-7b62-4dfa-bd55-a414f50932a7",
+      "Name": "PageWithLeftAreaTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ExpenseNotes form page",
+    "DependsOn": []
+  }
+}

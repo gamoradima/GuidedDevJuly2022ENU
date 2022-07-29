@@ -1,0 +1,36 @@
+= MetaData.Schema.UId "bbddfbb2-0bca-4faa-ba37-891dd8bf70bd"
+= MetaData.Schema.A2 "UsrExpenseNotes_FormPage"
+= MetaData.Schema.A5 "6f71e54c-1960-40c9-94f6-073fd67699ab"
++ MetaData.Schema.B2 {
+  "UId": "d62fb8a0-52ca-a5de-61fb-b22b0bbfd6b8",
+  "A2": "Button_7xc9o2i_caption",
+  "A3": "bbddfbb2-0bca-4faa-ba37-891dd8bf70bd",
+  "A4": "bbddfbb2-0bca-4faa-ba37-891dd8bf70bd",
+  "A5": "c4a5d64e-e3fd-4fd6-8e57-b082b011de3d"
+}
++ MetaData.Schema.B2 {
+  "UId": "52a751e3-1d12-b2f1-1533-8762ff97e32b",
+  "A2": "addRecord_hxy4co8_caption",
+  "A3": "bbddfbb2-0bca-4faa-ba37-891dd8bf70bd",
+  "A4": "bbddfbb2-0bca-4faa-ba37-891dd8bf70bd",
+  "A5": "c4a5d64e-e3fd-4fd6-8e57-b082b011de3d"
+}
++ MetaData.Schema.B2 {
+  "UId": "bac040ea-a996-d109-94d3-a5d70d07795c",
+  "A2": "addRecord_ne8q289_caption",
+  "A3": "bbddfbb2-0bca-4faa-ba37-891dd8bf70bd",
+  "A4": "bbddfbb2-0bca-4faa-ba37-891dd8bf70bd",
+  "A5": "c4a5d64e-e3fd-4fd6-8e57-b082b011de3d"
+}
++ MetaData.Schema.B2 {
+  "UId": "99c7cdc4-691b-0976-dd2a-95c1b10b0314",
+  "A2": "NumberInput_87y93nj_placeholder",
+  "A3": "bbddfbb2-0bca-4faa-ba37-891dd8bf70bd",
+  "A4": "bbddfbb2-0bca-4faa-ba37-891dd8bf70bd",
+  "A5": "c4a5d64e-e3fd-4fd6-8e57-b082b011de3d"
+}
+~ MetaData.Schema.B2 ["d62fb8a0-52ca-a5de-61fb-b22b0bbfd6b8","52a751e3-1d12-b2f1-1533-8762ff97e32b","bac040ea-a996-d109-94d3-a5d70d07795c","99c7cdc4-691b-0976-dd2a-95c1b10b0314"]
+= MetaData.Schema.B6 "ce81e2b7-b6df-46fd-9907-67ec6cc714dd"
+= MetaData.Schema.HD1 "0f8eb896-7b62-4dfa-bd55-a414f50932a7"
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

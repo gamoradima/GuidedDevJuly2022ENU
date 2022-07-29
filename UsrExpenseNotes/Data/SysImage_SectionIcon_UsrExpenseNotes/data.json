@@ -1,0 +1,24 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "6af6a966-e3ad-4e2b-8d83-0fc608bddc6d"
+        },
+        {
+          "SchemaColumnUId": "1e236958-f206-4fde-8a0e-6783fc223424",
+          "Value": "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzOCIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDM4IDE2Ij4KICA8ZyBpZD0ic3R1ZGlvLWxvZ28tcGFnZSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTUyLjg1MykiPgogICAgPHBhdGggaWQ9IlBhdGhfMTE2MjkiIGRhdGEtbmFtZT0iUGF0aCAxMTYyOSIgZD0iTTE1NS44MywxMS40MTksMTM2LjA2NSwxNmw1Ljg4Mi00LjU4MUwxMTcuODMsMFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC02NC45NzcpIiBmaWxsPSIjZmZmIi8+CiAgICA8cGF0aCBpZD0iUGF0aF8xMTYzMCIgZGF0YS1uYW1lPSJQYXRoIDExNjMwIiBkPSJNMTU1LjgzLDExLjMzSDE0MS45NDdMMTE3LjgzLDBaIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtNjQuOTc3KSIgZmlsbD0iI2ZmZiIvPgogIDwvZz4KPC9zdmc+Cg=="
+        },
+        {
+          "SchemaColumnUId": "be95e737-14e9-4253-b0c4-e280da05434d",
+          "Value": "image/svg+xml"
+        },
+        {
+          "SchemaColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
+          "Value": "SectionIcon_UsrExpenseNotes.svg"
+        }
+      ]
+    }
+  ]
+}
